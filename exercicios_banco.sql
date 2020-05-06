@@ -1,0 +1,14 @@
+-- 1.	Liste  a placa e o nome dos donos de todos os veículos. 
+-- 2.	Exiba o CPF e o nome do cliente que possui o veiculo de placa JJJ-1020.  
+-- 3.	Exiba a placa e a cor do veículo que possui o código de estacionamento um
+-- 4.	Exiba o ano e a placa do veículo que possui o código de estacionamento um. 
+-- 5.	Exiba a placa, o ano do veículo e a descrição de seu modelo, se ele possuir ano a partir de 2010. 
+-- 6.	Exiba o endereço, a data de entrada e de saída dos estacionamentos do veículo de placa JEG-1010. 
+-- 7.	Exiba a quantidade de vezes os veículos de cor verde estacionaram. 
+-- 8.	Liste todos os clientes que possuem carro de modelo um.  
+-- 9.	Liste as placas, os horários de entrada e saída dos veículos de cor verde.
+-- 10.	Liste todos os estacionamentos do veículo de placa JJJ-2020. 
+-- 11.	Exiba o nome do cliente que possui o veículo cujo código do estacionamento é dois. 
+-- 12.	Exiba o CPF do cliente que possui o veículo cujo código do estacionamento é três.
+-- 13.	Exiba a descrição e a cor do modelo do veículo cujo código do estacionamento é dois. 
+-- 14.	Exiba a placa, o nome dos donos e a descrição dos os modelos de todos os veículos. 
